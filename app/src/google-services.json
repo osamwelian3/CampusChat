@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "662111829814",
+    "firebase_url": "https://campuschat-6075f-default-rtdb.firebaseio.com",
+    "project_id": "campuschat-6075f",
+    "storage_bucket": "campuschat-6075f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662111829814:android:8463be2b84cb5b02abbd97",
+        "android_client_info": {
+          "package_name": "com.moringaschool.campuschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662111829814-9b66s6joagmfqdlsic8np7qo92dssf0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC8Mw-pDcH5OVeApRY1ztxQhNvLNGJyr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662111829814-9b66s6joagmfqdlsic8np7qo92dssf0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
